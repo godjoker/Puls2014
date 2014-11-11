@@ -1,0 +1,28 @@
+SISTEMA DE CONTROL DE VERSIONES
+
+Archivos
+FTP ----> Hosting /public_html/index.php
+
+=========
+
+GitHub / SVN (Subversion) /TFS / Mercurial
+
+Git: Control de versiones
+GitHub: Web app consolida el control de versiones
+
+1. Red social de programadores
+2. Web / Apps
+3. Mucho más fácil
+==========
+
+Repositorio de código
+
+1. Multiples versiones del mismo código
+2. Campos DELTA
+	Base de datos atomica del código
+3. Historial de archivos
+4. Multiples personas sobre el mismo archivo
+5. CULPA AL CULPABLE
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
